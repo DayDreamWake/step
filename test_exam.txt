@@ -1,0 +1,25 @@
+Course Code,Course Name,Course Instructor,Location,Duration,Priority,Class
+AER210H1,Vector Calc. & Fluid Mechanics,Pauline Ledbetter,MY-315,2.5,3,23
+AER301H1,Dynamics,Benita Sharp,GB-304,2.5,1,30
+AER307H1,Aerodynamics,Anthony Beall,BA-1180,2.5,3,14
+AER315H1,Combustion Processes,Margaret Harris,MY-380,2.5,3,25
+AER501H1,Comp.Struc.Mec.& Design Opt.,Etta Hyatt,BA-2159,2.5,3,14
+AER506H1,Spacecraft Dynamics & Control,Brandon Batie,WB-119,2.5,3,3
+AER507H1,Introduction To Fusion Energy,Donald Reilly,MY-360,2.5,2,10
+AER525H1,Robotics,Roy Barker,BA-2185,2.5,3,26
+APS110H1,Eng.Chemistry & Materials Sci.,Danielle Anderson,EX-200,2.5,3,24
+APS111H1,Eng.Strategies & Practice I,Wendy Dixie,EX-100,2.5,3,31
+APS113Y1,Eng.Strategies & Practice,Jc Gardner,EX-310,2.5,2,26
+APS160H1,Mechanics,Carlton Huie,EX-320,2.5,3,14
+APS163H1,Calculus For Engineers Ii,David Nichols,WB-116,2.5,3,13
+APS164H1,Intro Chem: Matls Perspective,Lisa Thompson,EX-300,2.5,3,18
+APS234H1,Entrepreneurship And Small Bus,Jacqueline Braud,MY-360,2.5,3,16
+APS301H1,Tech Society & Biosphere I,Ida Zelechowski,SF-3202,2.5,3,15
+APS343H1,Engineering Leadership,Grant Delgado,HA-403,2.5,3,9
+APS360H1,Artificial Intelligence Fund.,Wallace Freeney,HA-403,2.5,3,30
+APS502H1,Financial Engineering,Kari Downs,EX-300,2.5,3,21
+APS510H1,Tech.&Org.:Global Energy Syst.,Owen Tate,WB-130,2.5,3,27
+BME344H1,"Model.Dyn. & Control Bio Sys",Walter Lutz,WB-119,2.5,3,26
+BME350H1,Bio Sys Eng I: Organ Systems,Ilene Pedigo,BA-1130,2.5,3,21
+BME395H1,Bio Sys Eng Ii: Cells & Tissue,Robin Marler,MY-380,2.5,3,6
+BME428H1,Bio Sys Eng Iv: Comp. Sys. Bio,Brandy Stambaugh,HA-410,2.5,3,13

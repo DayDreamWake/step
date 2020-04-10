@@ -1,0 +1,17 @@
+Course Code,Course Name,Course Instructor,Location,Duration,Priority,Class
+AER307H1,Aerodynamics,Anthony Beall,BA-1180,2.5,3,11
+AER315H1,Combustion Processes,Margaret Harris,MY-380,2.5,3,22
+AER501H1,Comp.Struc.Mec.& Design Opt.,Etta Hyatt,BA-2159,2.5,3,13
+AER506H1,Spacecraft Dynamics & Control,Brandon Batie,WB-119,2.5,3,23
+AER507H1,Introduction To Fusion Energy,Donald Reilly,MY-360,2.5,2,22
+AER525H1,Robotics,Roy Barker,BA-2185,2.5,3,13
+APS110H1,Eng.Chemistry & Materials Sci.,Danielle Anderson,EX-200,2.5,3,23
+APS111H1,Eng.Strategies & Practice I,Wendy Dixie,EX-100,2.5,3,22
+APS113Y1,Eng.Strategies & Practice,Jc Gardner,EX-310,2.5,2,13
+APS160H1,Mechanics,Carlton Huie,EX-320,2.5,3,23
+APS163H1,Calculus For Engineers Ii,David Nichols,WB-116,2.5,3,2
+APS164H1,Intro Chem: Matls Perspective,Lisa Thompson,EX-300,2.5,3,11
+APS234H1,Entrepreneurship And Small Bus,Jacqueline Braud,MY-360,2.5,3,23
+APS301H1,Tech Society & Biosphere I,Ida Zelechowski,SF-3202,2.5,3,22
+APS343H1,Engineering Leadership,Grant Delgado,HA-403,2.5,3,21
+APS360H1,Artificial Intelligence Fund.,Wallace Freeney,HA-403,2.5,3,11
